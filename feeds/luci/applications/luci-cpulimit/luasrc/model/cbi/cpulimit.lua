@@ -1,3 +1,6 @@
+--[[
+LuCI - Lua Configuration Interface
+]]--
 
 m = Map("cpulimit", translate("cpulimit"),translate("cpulimit-ng"))
 s = m:section(TypedSection, "list", translate("Settings"))

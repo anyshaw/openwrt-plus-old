@@ -1,5 +1,5 @@
 --[[
-RA-MOD
+LuCI - Lua Configuration Interface
 ]]--
 
 local fs = require "nixio.fs"
